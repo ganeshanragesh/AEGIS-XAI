@@ -5,6 +5,14 @@ AEGIS-XAI is a cybersecurity project exploring AI-assisted network intrusion det
 
 The project combines a web-based monitoring dashboard with network traffic capture and machine learning components to help visualize network activity and investigate potential threats.
 
+## 📢 Source Code Now Available
+
+I'm happy to share the source code of **AEGIS-XAI** with the public!
+
+I've made the project source code available for developers, cybersecurity students, and anyone interested in learning about AI-driven security systems.
+
+The project is an ongoing learning and development initiative. Contributions, suggestions, and feedback are welcome!
+
 ## 🚀 Project Goals
 
 - Monitor network traffic using TShark.
@@ -110,7 +118,7 @@ Use packet capture and network monitoring only on systems and networks you own o
 **Ganeshan Ragesh**
 
 - GitHub: [@ganeshanragesh](https://github.com/ganeshanragesh)
-- LinkedIn: [Connect with me on LinkedIn](www.linkedin.com/in/ganeshan-ragesh-a88b3843a)
+- LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/ganeshan-ragesh-a88b3843a/)
 
 Interested in cybersecurity, network security, penetration testing, and AI-assisted threat detection.
 
