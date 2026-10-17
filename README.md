@@ -11,7 +11,9 @@ I'm happy to share the source code of **AEGIS-XAI** with the public!
 
 I've made the project source code available for developers, cybersecurity students, and anyone interested in learning about AI-driven security systems.
 
-The project is an ongoing learning and development initiative. Contributions, suggestions, and feedback are welcome!
+📦 **Download the complete source code:** Check the [**AEGIS-XAI-clean-source.zip**] in the [**Releases**] section to get the complete project source archive and follow the README instructions for setup.
+
+This is an ongoing learning and development project. Contributions, suggestions, and feedback are welcome!
 
 ## 🚀 Project Goals
 
